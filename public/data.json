@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Burger",
+    "price": 6,
+    "category": "Foods",
+    "image": "https://avmcart.com/storage/categories/4845624.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Pizza",
+    "price": 5,
+    "category": "Foods",
+    "image": "https://avmcart.com/storage/categories/7929240.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Fish",
+    "price": 8,
+    "category": "Foods",
+    "image": "https://avmcart.com/storage/categories/8502796.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Shawarma",
+    "price": 2,
+    "category": "Foods",
+    "image": "https://avmcart.com/storage/categories/7496789.png"
+  },
+  {
+    "id": 6,
+    "title": "Cola",
+    "price": 0.5,
+    "category": "Drinks",
+    "image": "https://static.turbosquid.com/Preview/2019/11/26__14_37_42/Image_00000.png16943A41-7936-4BDB-B81C-80FC093F9EC1Large.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Biryani",
+    "price": 3,
+    "category": "Drinks",
+    "image": "https://avmcart.com/storage/categories/1065149.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Water",
+    "price": 0.5,
+    "category": "Drinks",
+    "image": "https://www.bigbasket.com/media/uploads/p/xxl/265894_7-aquafina-packaged-drinking-water.jpg"
+  }
+]
